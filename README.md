@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Fund in the Sea*
 
-Submitted by: **Your Name Here**
+Submitted by: **Dhyani Soni**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Fund in the Sea** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -35,6 +35,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- Creating an Element and assigning it to a node and appending a child was a concept I took time to understand and get the lines of code error free.
 
 ## License
 
